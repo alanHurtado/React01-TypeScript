@@ -1,6 +1,13 @@
 
+// import { Basico } from './components/Basico'
+import { AsyncAweit } from './components/AsyncAweit';
+// import { Promesas } from './components/Promesas';
+
 export const App = () => {
   return (
-    <div>App</div>
+    // <Basico />
+    // <Destructuracion />
+    // <Promesas />
+    <AsyncAweit />
   )
 }
